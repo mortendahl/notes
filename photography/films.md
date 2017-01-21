@@ -1,17 +1,18 @@
 
 # Analogue Films
 
-[Kodak Portra 400](http://mortendahl.dk/blog/tag/kodak-portra-400/)
+Opinion on various analogue films.
+
 ## Colour
 
 <ul>
 
 <li style="margin-bottom: 10px;">
-<em>[Kodak Portra 160](http://mortendahl.dk/blog/tag/kodak-portra-160/)</em>:
+<em><a href="https://mortendahl.dk/blog/tag/kodak-portra-160/">Kodak Portra 160</a></em>:
 Favourite general-purpose colour film so far, giving saturated but natural colours. At a reasonable price, this is not only the film that I always keep an extra one of in my bag, but also the one I make sure to have in one of the two cameras I typically bring. Shoot at indicated exposure, but generally very forgiving film -- can easily be underexposed and overexposed by one stop.</li>
 
 <li style="margin-bottom: 10px;">
-<em>[Kodak Portra 400](http://mortendahl.dk/blog/tag/kodak-portra-400/)</em>:
+<em><a href="https://mortendahl.dk/blog/tag/kodak-portra-400/">Kodak Portra 400</a></em>:
 can't tell the difference between this one and the 160, except that it's slightly more expensive. I use it with my slower zoom lens.</li>
 
 <li style="margin-bottom: 10px;">
